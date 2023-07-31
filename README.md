@@ -3,10 +3,10 @@
     <img width="20%" alt="github.com/liushuai05/photoZip" src="./logo.jpg">
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.bilibili.com/video/BV1za4y1e7U9/">视频演示</a> | 
 <a href="https://www.youtube.com/watch?v=3nDGifbqdug">Video presentation</a>
-</p>
+</p> -->
 <p align="center">
     Picture processing tools like compressing pictures, adding watermarks, etc ,it support batch processing.
 </p>
