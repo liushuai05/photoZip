@@ -37,7 +37,7 @@ CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build .
 
 
 ### 下载地址
-[download binary file](https://github.com/shgopher/photoZip/releases)
+[download binary file](https://github.com/liushuai05/photoZip/releases/)
 
 ### 如何使用
 
