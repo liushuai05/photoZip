@@ -25,6 +25,16 @@
     Learn more: <a href="https://github.com/shgopher" target="_blank">shgopher</a>
 </p>
 
+## 开发方式
+
+#### 测试环境
+go run .
+
+#### 打包 linux 环境
+go build . 
+#### 打包 windows 环境
+CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build . 
+
 
 ### 下载地址
 [download binary file](https://github.com/shgopher/photoZip/releases)
@@ -49,7 +59,7 @@
 > 如果权限不足，记得改权限 `chmod +x ./photoZip`
 - 用 windows 打开windows的命令行这样使用： ` photoZip.exe -r [your resource path] -o [your out put path] -q [the quality]`
 
-- Mac和Linux： `photoZip_[linux/macos] -r resource path -o output path`
+- Mac和Linux： `photoZip -r resource path -o output path`
 
 支持 png jpg jpeg and gif ,所有格式都按照jpeg来输出，所以GIF最好别用。因为输出的是第一张图
 ## HERE
