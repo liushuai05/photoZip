@@ -22,7 +22,7 @@
 </p> 
 
 <p align="center">
-    Learn more: <a href="https://github.com/shgopher" target="_blank">shgopher</a>
+    Learn more: <a href="https://github.com/liushuai05" target="_blank">liushuai05</a>
 </p>
 
 ## 开发方式
@@ -37,7 +37,7 @@ CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build .
 
 
 ### 下载地址
-[download binary file](https://github.com/liushuai05/photoZip/releases/)
+[download binary file](https://github.com/liushuai05/photoZip/releases)
 
 ### 如何使用
 
